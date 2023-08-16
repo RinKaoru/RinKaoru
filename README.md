@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Rin 
-I'm a 19 years old french game developer.
+I'm a 20 years old french game developer.
 
 I'm specializing myself in programming in miscellaneous languages such as Lua, C# & C++.
 
